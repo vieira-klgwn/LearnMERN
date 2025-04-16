@@ -1,0 +1,19 @@
+{
+  "name": "helloworldmernapp",
+  "version": "1.0.0",
+  "description": "Restarting from scratch to learn about mern stack apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vieira-klgwn/LearnMERN.git"
+  },
+  "author": "vieira-klgwn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vieira-klgwn/LearnMERN/issues"
+  },
+  "homepage": "https://github.com/vieira-klgwn/LearnMERN#readme"
+}
